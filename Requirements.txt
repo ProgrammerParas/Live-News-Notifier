@@ -1,0 +1,3 @@
+plyer - https://pypi.org/project/plyer/
+json - https://docs.python.org/3/library/json.html
+requests - https://pypi.org/project/requests/
