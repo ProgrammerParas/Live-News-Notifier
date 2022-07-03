@@ -1,3 +1,5 @@
+#Paras Arora
+
 #api_key = "API FROM:- https://newsapi.org/"
 # notification-icon-path = "ICON PATH OF ICO FILE" #.ico file
 
